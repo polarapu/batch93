@@ -3,29 +3,3 @@ Test data added on main branch
 smaple data on release1 (r1) branch
 Hello all good evng.
 Test data added by prasad :)
-git log
-git log -3
-git log --oneline
-git log --oneline -2
-git log --author=Prasad
-git log --author=Prasad -2
-git log --author=Prasad --oneline
-git log --author=Prasad --oneline -2
-
-git log --since=yy-mm-dd
-or
-git log --after=yy-mm-dd
-
-git log --until=yy-mm-dd
-or
-git log --before=yy-mm-dd
-
-git log --since=yy-mm-dd --until=yy-mm-dd
-or
-git log --after=yy-mm-dd --before=yy-mm-dd
-
-git log --since="yy-mm-dd 23:00" --until="yy-mm-dd 23:00"
-
-git log -- file file-name
-
-git log --grep label
